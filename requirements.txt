@@ -4,3 +4,15 @@ pyyaml
 notebook
 requests
 python-dotenv
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+scipy
+scikit-image
+opencv-python
+
+
+
+
