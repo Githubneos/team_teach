@@ -1,9 +1,9 @@
-title: DNHS Flocker
+title: Team Teach Lists and Filtering Algorithms
 description: "Social Media for Del Norte High School"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "flocker_frontend" 
-baseurl: "/flocker_frontend"
+owner_name: Keerthan K
+github_username: githubneos
+github_repo: "team_teach" 
+baseurl: "/team_teach"
 future: true
 remote_theme: jekyll/minima
 minima:
