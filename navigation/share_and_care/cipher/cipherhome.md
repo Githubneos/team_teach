@@ -94,7 +94,7 @@ permalink: /cipherhome/
 
 - [Cipher Information](https://www.cryptogram.org/resource-area/solve-a-cipher/)
 - [Cipher Resources](https://www.cryptogram.org/resource-area/solve-a-cipher/)
-- [Community Forum](/flocker_frontend/share_and_care/cipherdiscussion)
+- [Community Forum](/team_teach/share_and_care/cipherdiscussion)
 
 ---
 
@@ -124,7 +124,7 @@ permalink: /cipherhome/
         <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 100%;">
           <!-- Level 1 Button -->
     </div>
-<a href="/flocker_frontend/levelone/" style="text-decoration: none;">
+<a href="/team_teach/levelone/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #00FF00; color: #005500; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #a0d99a; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 1: Beginner 🌱</strong><br>
@@ -136,7 +136,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 2 Button -->
-<a href="/flocker_frontend/leveltwo/" style="text-decoration: none;">
+<a href="/team_teach/leveltwo/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #00FFFF; color: #004466; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #8ecae6; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 2: Novice 💻</strong><br>
@@ -148,7 +148,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 3 Button -->
-<a href="/flocker_frontend/levelthree/" style="text-decoration: none;">
+<a href="/team_teach/levelthree/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #FFA500; color: #664400; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #ffa500; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 3: Intermediate 🔐</strong><br>
@@ -160,7 +160,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 4 Button -->
-<a href="/flocker_frontend/levelfour/" style="text-decoration: none;">
+<a href="/team_teach/levelfour/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #FF0000; color: #550000; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #ff6961; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 4: Pro 🚀</strong><br>
@@ -172,7 +172,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 5 Button -->
-<a href="/flocker_frontend/levelfive/" style="text-decoration: none;">
+<a href="/team_teach/levelfive/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #d3d3d3; color: #333333; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #0000FF; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 5: Expert ⚔️</strong><br>
@@ -184,7 +184,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 6 Button -->
-<a href="/flocker_frontend/levelsix/" style="text-decoration: none;">
+<a href="/team_teach/levelsix/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #008080; color: #003366; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #66b2ff; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 6: Master 🔥</strong><br>
@@ -196,7 +196,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 7 Button -->
-<a href="/flocker_frontend/levelseven/" style="text-decoration: none;">
+<a href="/team_teach/levelseven/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #FF00FF; color: #6d003b; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #bc5090; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 7: Grand-Master 🏅</strong><br>
@@ -208,7 +208,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 8 Button -->
-<a href="/flocker_frontend/leveleight/" style="text-decoration: none;">
+<a href="/team_teach/leveleight/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #FFFF00; color: #a10000; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #e63946; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 8: Alpha 👑</strong><br>
@@ -220,7 +220,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 9 Button -->
-<a href="/flocker_frontend/levelnine/" style="text-decoration: none;">
+<a href="/team_teach/levelnine/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #FFC0CB; color: #4e4b9b; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #6a5acd; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 9: God ✨</strong><br>
@@ -232,7 +232,7 @@ permalink: /cipherhome/
 </a>
 
 <!-- Level 10 Button -->
-<a href="/flocker_frontend/levelten/" style="text-decoration: none;">
+<a href="/team_teach/levelten/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #0a0a0a; color: #ffd700; width: 100%; padding: 20px; border-radius: 10px; border: 2px solid #FFFF00; text-align: left; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-size: 1.2em;">
         <div style="flex-grow: 1;">
             <strong>Level 10: SIGMA 🌌</strong><br>

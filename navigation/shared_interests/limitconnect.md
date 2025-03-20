@@ -187,7 +187,7 @@ menu: nav/shared_interests.html
 
 <script type="module">
     // Import server URI and standard fetch options
-    import { pythonURI, fetchOptions } from '/flocker_frontend/assets/js/api/config.js';
+    import { pythonURI, fetchOptions } from '/team_teach/assets/js/api/config.js';
 
     /**
      * Fetch groups for dropdown selection

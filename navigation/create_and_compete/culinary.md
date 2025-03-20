@@ -1123,8 +1123,8 @@ document.getElementById('randomRecipeButton').addEventListener('click', () => {
 ### Feedback (Temporary)
 
 <script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/flocker_frontend"
-        issue-term="/flocker_frontend"
+        repo="nighthawkcoders/team_teach"
+        issue-term="/team_teach"
         theme="github-dark"
         crossorigin="anonymous"
         async>
