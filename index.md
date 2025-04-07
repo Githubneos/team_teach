@@ -7,6 +7,9 @@ hide: true
 menu: nav/home.html
 ---
 
+[2025-03-20 Team Teach Notebook](/path/to/notebook/2025-03-20-team-teach.ipynb)
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
