@@ -9,6 +9,6 @@ menu: nav/home.html
 
 <table cellpadding="10">
     <tr>
-        <td><a href="{{site.baseurl}}/Lists_Algorithims">Team Teach - Lists and Filtering Algorithms</a></td>
+        <td><a href="{{site.baseurl}}/Lists_Algorithms">Team Teach - Lists and Filtering Algorithms</a></td>
     </tr>
 </table>
